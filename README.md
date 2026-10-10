@@ -65,6 +65,8 @@ Todas con datos ficticios.
 |-|-|
 |<img src="img/03_tipologias_resumen.png" alt="Resumen de tipologías" width="380">|<img src="img/04_conciliacion.png" alt="Conciliación bancaria" width="380">|
 |**Tipologías:** hoja Resumen del Excel descargado, con enlaces al detalle.|**Conciliación:** los dos extractos cargados y el mapeo de columnas de cada uno.|
+|<img src="img/05_conciliacion_resumen.png" alt="Resumen de la conciliación" width="380">|<img src="img/06_conciliacion_clusters.png" alt="Hoja Clusters de la conciliación" width="380">|
+|**Resultado de la conciliación:** hoja Resumen con el cuadre de movimientos y de saldos.|**Partidas pendientes:** hoja Clusters, con lo que no tiene pareja en cada lado agrupado por concepto.|
 
 ## 🔒 Privacidad por diseño
 
