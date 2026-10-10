@@ -69,7 +69,7 @@ Todas con datos ficticios.
 |**Tipologías:** hoja Resumen del Excel descargado, con enlaces al detalle.|**Conciliación:** los dos extractos cargados y el mapeo de cada uno.|
 |![Resumen de la conciliación](img/05_conciliacion_resumen.png)||
 |**Resultado de la conciliación:** lo cuadrado, lo pendiente y los saldos.||
-<img width="974" height="905" alt="Captura de pantalla 2026-10-10 185317" src="https://github.com/user-attachments/assets/027ca1cf-67b2-4a4f-a0ea-3396a2d28973" />
+
 <!-- PENDIENTE: falta img/05_conciliacion_resumen.png (con datos de ejemplo) -->
 
 
