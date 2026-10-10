@@ -61,13 +61,10 @@ explica qué contiene cada hoja del Excel de resultados.
 
 Todas con datos ficticios.
 
-![Resumen de tipologías](img/03_tipologias_resumen.png)
-
-**Tipologías:** hoja Resumen del Excel descargado, con enlaces al detalle.
-
-![Conciliación bancaria](img/04_conciliacion.png)
-
-**Conciliación:** los dos extractos cargados y el mapeo de columnas de cada uno.
+|||
+|-|-|
+|<img src="img/03_tipologias_resumen.png" alt="Resumen de tipologías" width="380">|<img src="img/04_conciliacion.png" alt="Conciliación bancaria" width="380">|
+|**Tipologías:** hoja Resumen del Excel descargado, con enlaces al detalle.|**Conciliación:** los dos extractos cargados y el mapeo de columnas de cada uno.|
 
 ## 🔒 Privacidad por diseño
 
