@@ -6,6 +6,10 @@
 
 ## 🎬 Vídeo demostración
 
+
+https://github.com/user-attachments/assets/b9fabf15-d3a1-4b3e-81ab-cb56bed43337
+
+
 <!-- PENDIENTE: arrastrar aquí el MP4 desde el editor web de GitHub; pegará una URL user-attachments y se verá el reproductor -->
 
 **English summary** — AUDITPRO is a Python/Streamlit tool I built during my internships at an
