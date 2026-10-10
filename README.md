@@ -65,6 +65,10 @@ Todas con datos ficticios.
 
 **Tipologías:** hoja Resumen del Excel descargado, con enlaces al detalle.
 
+![Conciliación bancaria](img/04_conciliacion.png)
+
+**Conciliación:** los dos extractos cargados y el mapeo de columnas de cada uno.
+
 ## 🔒 Privacidad por diseño
 
 Los Excel contienen datos contables reales de clientes. Por eso la aplicación **no tiene
