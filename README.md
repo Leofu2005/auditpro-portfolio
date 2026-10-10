@@ -10,8 +10,6 @@
 https://github.com/user-attachments/assets/b9fabf15-d3a1-4b3e-81ab-cb56bed43337
 
 
-<!-- PENDIENTE: arrastrar aquí el MP4 desde el editor web de GitHub; pegará una URL user-attachments y se verá el reproductor -->
-
 **English summary** — AUDITPRO is a Python/Streamlit tool I built during my internships at an
 audit firm (Kreston Iberaudit, Spain). It reads general-ledger Excel files, flags journal
 entries worth reviewing (Benford's law, round amounts, gaps in numbering, entries posted on
@@ -63,15 +61,9 @@ explica qué contiene cada hoja del Excel de resultados.
 
 Todas con datos ficticios.
 
-|||
-|-|-|
-|![Resumen de tipologías](img/03_tipologias_resumen.png)|![Conciliación bancaria](img/04_conciliacion.png)|
-|**Tipologías:** hoja Resumen del Excel descargado, con enlaces al detalle.|**Conciliación:** los dos extractos cargados y el mapeo de cada uno.|
-|![Resumen de la conciliación](img/05_conciliacion_resumen.png)||
-|**Resultado de la conciliación:** lo cuadrado, lo pendiente y los saldos.||
+![Resumen de tipologías](img/03_tipologias_resumen.png)
 
-<!-- PENDIENTE: falta img/05_conciliacion_resumen.png (con datos de ejemplo) -->
-
+**Tipologías:** hoja Resumen del Excel descargado, con enlaces al detalle.
 
 ## 🔒 Privacidad por diseño
 
