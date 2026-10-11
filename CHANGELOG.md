@@ -2,6 +2,11 @@
 
 Cambios relevantes de AUDITPRO por versión, escritos desde el punto de vista del usuario.
 
+## v1.2.0 — 2026-10-11
+
+- Pantalla de bienvenida al abrir la aplicación, con una explicación de las opciones. El
+  menú lateral permanece oculto hasta pulsar "Entrar".
+
 ## v1.1.0 — 2026-10-08
 
 - Antes de ejecutar, la aplicación muestra las columnas que necesita cada análisis. Con un
@@ -11,8 +16,6 @@ Cambios relevantes de AUDITPRO por versión, escritos desde el punto de vista de
 - Conciliación bancaria: el desplegable de hoja aparece en los dos extractos.
 - Conciliación bancaria: un desplegable explica qué hace la herramienta y qué contiene cada
   una de las 8 hojas del Excel de resultados.
-- Pantalla de bienvenida al abrir la aplicación, con una explicación de las opciones. El
-  menú lateral permanece oculto hasta pulsar "Entrar".
 
 ## v1.0.0 — 2026-10-04
 

@@ -41,7 +41,7 @@ resuelve para el auditor.
 |-|-|-|
 |**Tipologías**|Agrupa los asientos por su estructura de cuentas Debe/Haber (por ejemplo `430,472(D)/770(H)`).|Ver de un vistazo qué tipos de asiento hay y detectar los que no encajan.|
 |**Importes duplicados**|Encuentra asientos de gasto o ingreso con la misma estructura y el mismo importe.|Localizar posibles facturas duplicadas o errores de imputación repetidos.|
-|**Partes vinculadas**|Cruza los asientos con las cuentas del PGC asociadas a empresas del grupo, socios y administradores.|Revisar de forma sistemática las operaciones vinculadas.|
+|**Partes vinculadas**|Cruza los asientos con las cuentas del PGC de operaciones con empresas del grupo y asociadas.|Revisar de forma sistemática las operaciones vinculadas.|
 |**Pruebas de revisión**|Seis pruebas: Ley de Benford, asientos faltantes, fechas inusuales (fines de semana y festivos), importes acabados en 999, múltiplos de 1.000 e importes superiores a materialidad.|Señalar asientos sospechosos con pruebas de auditoría forense reconocidas.|
 |**Conciliación bancaria**|Cruza el extracto del banco con el de la contabilidad por importe y fecha, propone agrupaciones y calcula el cuadre de saldos.|Saber qué coincide, qué no y cuánto queda sin explicar.|
 |**Tipologías por usuario**|Mismo análisis de tipologías, pero por quién registra cada asiento.|Revisar la segregación de funciones.|
@@ -101,7 +101,7 @@ El razonamiento completo, con ejemplos de código, está en [**TECNICAS.md**](TE
 
 ## 🛠️ Tecnologías
 
-Python 3.11 · Streamlit · pandas · NumPy · OpenPyXL · XlsxWriter · pytest · Git y GitHub
+Python 3.10 · Streamlit · pandas · NumPy · OpenPyXL · XlsxWriter · pytest · Git y GitHub
 
 ## 📂 Estructura del proyecto
 
