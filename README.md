@@ -1,4 +1,4 @@
-# 📈 AUDITPRO — Análisis forense de asientos contables
+# 📈 AUDITPRO — Análisis de asientos contables
 
 > Herramienta que analiza el libro diario de una empresa en Excel, señala los asientos que
 > merece la pena revisar y concilia el banco contra la contabilidad. La diseñé y la mantengo
