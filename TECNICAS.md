@@ -176,9 +176,7 @@ manipuladas o inventadas (las personas son malas generando números "aleatorios"
 tienden a sobrerrepresentar ciertos dígitos).
 
 **Por qué esta y no otra**: es una prueba de auditoría forense reconocida internacionalmente,
-no una técnica inventada para este proyecto — es la razón por la que este criterio concreto
-es el que más valor tiene de cara a un auditor profesional: no hay que justificar la
-metodología desde cero.
+no una técnica inventada para este proyecto.
 
 **En el código**: módulo `criterios.Ley_Benford`, función `detectar_Ley_Benford()`.
 
